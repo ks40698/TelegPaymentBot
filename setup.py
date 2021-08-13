@@ -2,7 +2,7 @@
 
 BOT_TOKEN = '1929795899:AAFr3oN9oDHh8vitZFXhrd-x7FyldRQMy0c'
 PROVIDER_TOKEN = '284685063:TEST:ZGRmYmQzMTdkNTc2'
-CURRENCY = 'IMR'
+CURRENCY = 'INR'
 INVOICE_TITLE = "DOOO INDIA"
 INVOICE_DESCRIPTION = "Use this invoice to make payment"
 START_MESSAGE = "Use /createinvoice to create an invoice. \nUse /help to read info."
